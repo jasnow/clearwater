@@ -2,12 +2,11 @@ language: ruby
 
 sudo: false
 
-cache:
-  bundler: true
+cache: bundler
 
 rvm:
-  - 2.2.4
-  - 2.3.0
+  - 2.2.5
+  - 2.3.1
 
 before_install:
   # Keep track of which version of node and phantomjs we're running the specs against
