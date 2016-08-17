@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    clearwater (1.0.0.rc1)
+    clearwater (1.0.0.rc3)
       bowser
       opal
 
