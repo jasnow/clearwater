@@ -6,7 +6,7 @@ cache: bundler
 
 rvm:
   - 2.2.6
-  - 2.3.2
+  - 2.3.3
 
 before_install:
   # Keep track of which version of node and phantomjs we're running the specs against
