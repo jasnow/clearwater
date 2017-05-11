@@ -8,7 +8,7 @@ PATH
 GEM
   remote: https://rubygems.org/
   specs:
-    bowser (0.3.0)
+    bowser (0.4.0)
       opal (>= 0.7.0, < 0.12.0)
     coderay (1.1.1)
     concurrent-ruby (1.0.5)
