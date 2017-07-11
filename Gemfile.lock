@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     clearwater (1.0.0.rc3)
-      bowser
+      bowser (= 0.4.0)
       opal
 
 GEM
