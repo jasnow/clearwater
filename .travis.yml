@@ -5,9 +5,9 @@ sudo: false
 cache: bundler
 
 rvm:
-  - 2.2.7
-  - 2.3.4
-  - 2.4.1
+  - 2.2.8
+  - 2.3.5
+  - 2.4.2
 
 before_install:
   # Keep track of which version of node and phantomjs we're running the specs against
